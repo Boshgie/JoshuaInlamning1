@@ -1,12 +1,1 @@
-*~
-.classpath
-*.class
-.project
-target
-.settings
-.DS_Store
-MANIFEST.MF
-.idea
-*.iml
-*.jar
-bin
+*~\n.classpath\n*.class\n.project\ntarget\n.settings\n.DS_Store\nMANIFEST.MF\n.idea\n*.iml\n*.jar\nbin
